@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/JustAnotherJavaProgrammer/NpmBugTestRepo#readme",
   "dependencies": {
-    "@proj/source": "github:JustAnotherJavaProgrammer/NpmBugTestRepoDependency#main"
+    "@proj/source": "github:JustAnotherJavaProgrammer/NpmBugTestRepoDependency#dev"
   }
 }
